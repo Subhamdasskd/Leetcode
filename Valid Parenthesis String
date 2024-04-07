@@ -1,0 +1,25 @@
+class Solution:
+    def checkValidString(self, s: str) -> bool:
+        N = len(s)
+        
+        possible = set([0])
+        
+        for c in s:
+            next_possible = set()
+            if c == "(":
+                for p in possible:
+                    next_possible.add(p + 1)
+            elif c == ")":
+                for p in possible:
+                    if p - 1 >= 0:
+                        next_possible.add(p - 1)
+            else:
+                for p in possible:
+                    next_possible.add(p + 1)
+                    if p - 1 >= 0:
+                        next_possible.add(p - 1)
+                    next_possible.add(p)
+                    
+            possible = next_possible
+            
+        return 0 in possible
