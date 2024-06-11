@@ -27,6 +27,7 @@
 | [0648-replace-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhamdasskd/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
@@ -35,11 +36,13 @@
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhamdasskd/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -57,3 +60,4 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
