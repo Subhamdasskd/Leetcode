@@ -19,6 +19,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Subhamdasskd/Leetcode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Subhamdasskd/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Subhamdasskd/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Subhamdasskd/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -37,6 +38,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Subhamdasskd/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhamdasskd/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Subhamdasskd/Leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Subhamdasskd/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Subhamdasskd/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Subhamdasskd/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -65,5 +68,6 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Subhamdasskd/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Subhamdasskd/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1217-relative-sort-array) |
