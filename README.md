@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Subhamdasskd/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Subhamdasskd/Leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
