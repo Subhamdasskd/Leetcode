@@ -238,6 +238,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Subhamdasskd/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Subhamdasskd/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Subhamdasskd/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Subhamdasskd/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Subhamdasskd/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -317,6 +318,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Subhamdasskd/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Subhamdasskd/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Subhamdasskd/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Subhamdasskd/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -416,6 +418,7 @@
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Subhamdasskd/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Subhamdasskd/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Subhamdasskd/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Subhamdasskd/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -456,4 +459,12 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Subhamdasskd/Leetcode/tree/master/0476-number-complement) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
