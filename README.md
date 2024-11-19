@@ -477,6 +477,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Subhamdasskd/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -519,6 +520,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Subhamdasskd/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -607,6 +609,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
