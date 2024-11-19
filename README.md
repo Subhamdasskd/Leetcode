@@ -476,6 +476,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Subhamdasskd/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -605,6 +606,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -749,6 +751,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
