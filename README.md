@@ -245,6 +245,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Subhamdasskd/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Subhamdasskd/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Subhamdasskd/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subhamdasskd/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Subhamdasskd/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -299,6 +300,7 @@
 | [1293-three-consecutive-odds](https://github.com/Subhamdasskd/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Subhamdasskd/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subhamdasskd/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Subhamdasskd/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Subhamdasskd/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -520,6 +522,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subhamdasskd/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Subhamdasskd/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -764,6 +767,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Subhamdasskd/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subhamdasskd/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Subhamdasskd/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
