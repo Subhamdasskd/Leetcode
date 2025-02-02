@@ -265,6 +265,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Subhamdasskd/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Subhamdasskd/Leetcode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Subhamdasskd/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
@@ -292,6 +293,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Subhamdasskd/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Subhamdasskd/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subhamdasskd/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -318,6 +320,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subhamdasskd/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -432,6 +435,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Subhamdasskd/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Subhamdasskd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -751,6 +755,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Subhamdasskd/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Subhamdasskd/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
