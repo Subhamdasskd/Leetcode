@@ -388,6 +388,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Subhamdasskd/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Subhamdasskd/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Subhamdasskd/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Subhamdasskd/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Subhamdasskd/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Subhamdasskd/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -615,6 +616,7 @@
 | [0670-maximum-swap](https://github.com/Subhamdasskd/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Subhamdasskd/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Subhamdasskd/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Subhamdasskd/Leetcode/tree/master/2155-find-missing-observations) |
@@ -848,6 +850,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Subhamdasskd/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Subhamdasskd/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Subhamdasskd/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Subhamdasskd/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -933,6 +936,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Subhamdasskd/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Subhamdasskd/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Subhamdasskd/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Subhamdasskd/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
