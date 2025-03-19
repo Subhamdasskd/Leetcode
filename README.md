@@ -478,6 +478,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -658,6 +659,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Subhamdasskd/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Subhamdasskd/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -911,6 +913,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Strongly Connected Component
 |  |
@@ -952,6 +955,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Subhamdasskd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Subhamdasskd/Leetcode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -967,6 +971,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Subhamdasskd/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Game Theory
 |  |
 | ------- |
