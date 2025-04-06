@@ -660,6 +660,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/Subhamdasskd/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Subhamdasskd/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -1081,6 +1082,7 @@
 | [2107-find-unique-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
