@@ -752,6 +752,7 @@
 | [3447-clear-digits](https://github.com/Subhamdasskd/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Subhamdasskd/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -911,6 +912,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1006,6 +1008,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Subhamdasskd/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Game Theory
 |  |
 | ------- |
