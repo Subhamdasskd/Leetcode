@@ -672,6 +672,7 @@
 | [2998-count-symmetric-integers](https://github.com/Subhamdasskd/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -682,6 +683,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Subhamdasskd/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -997,6 +999,7 @@
 | [3394-minimum-array-end](https://github.com/Subhamdasskd/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
