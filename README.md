@@ -929,6 +929,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Subhamdasskd/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Subhamdasskd/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/Subhamdasskd/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1054,6 +1055,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Subhamdasskd/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Rolling Hash
 |  |
 | ------- |
