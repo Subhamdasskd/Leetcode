@@ -313,6 +313,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Subhamdasskd/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Subhamdasskd/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -466,6 +467,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Subhamdasskd/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Subhamdasskd/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Subhamdasskd/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Subhamdasskd/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -827,6 +829,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Subhamdasskd/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Subhamdasskd/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subhamdasskd/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1024,6 +1027,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Subhamdasskd/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Subhamdasskd/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Subhamdasskd/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Subhamdasskd/Leetcode/tree/master/2509-minimize-xor) |
