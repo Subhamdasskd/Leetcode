@@ -386,6 +386,7 @@
 | [0906-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Subhamdasskd/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/Subhamdasskd/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/Subhamdasskd/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -937,6 +938,7 @@
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Subhamdasskd/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Subhamdasskd/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Subhamdasskd/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
@@ -1024,6 +1026,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/Subhamdasskd/Leetcode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Subhamdasskd/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
