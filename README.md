@@ -363,6 +363,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -927,6 +928,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
