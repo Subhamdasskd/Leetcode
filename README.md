@@ -173,6 +173,7 @@
 | [2509-minimize-xor](https://github.com/Subhamdasskd/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subhamdasskd/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2689-rearranging-fruits](https://github.com/Subhamdasskd/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Subhamdasskd/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -237,6 +238,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subhamdasskd/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Subhamdasskd/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/Subhamdasskd/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Subhamdasskd/Leetcode/tree/master/2846-robot-collisions) |
@@ -488,6 +490,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subhamdasskd/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Subhamdasskd/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2689-rearranging-fruits](https://github.com/Subhamdasskd/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Subhamdasskd/Leetcode/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subhamdasskd/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -576,6 +579,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Subhamdasskd/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subhamdasskd/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-rearranging-fruits](https://github.com/Subhamdasskd/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
