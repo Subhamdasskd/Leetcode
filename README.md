@@ -693,6 +693,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Subhamdasskd/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Subhamdasskd/Leetcode/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/Subhamdasskd/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -944,6 +945,7 @@
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Subhamdasskd/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0826-soup-servings](https://github.com/Subhamdasskd/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Subhamdasskd/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Subhamdasskd/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -1184,4 +1186,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamdasskd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Subhamdasskd/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
