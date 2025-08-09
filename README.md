@@ -684,6 +684,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -715,6 +716,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Subhamdasskd/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Subhamdasskd/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1034,6 +1036,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Subhamdasskd/Leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
