@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Subhamdasskd/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -368,6 +369,7 @@
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -536,6 +538,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Subhamdasskd/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Subhamdasskd/Leetcode/tree/master/0567-permutation-in-string) |
@@ -616,6 +619,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Subhamdasskd/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Subhamdasskd/Leetcode/tree/master/0729-my-calendar-i) |
@@ -690,6 +694,7 @@
 | [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Subhamdasskd/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1042,6 +1047,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Subhamdasskd/Leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
