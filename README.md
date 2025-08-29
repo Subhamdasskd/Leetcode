@@ -730,6 +730,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Subhamdasskd/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Subhamdasskd/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Subhamdasskd/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
