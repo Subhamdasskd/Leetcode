@@ -619,6 +619,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/Subhamdasskd/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Subhamdasskd/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Subhamdasskd/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -725,6 +726,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamdasskd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Subhamdasskd/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Subhamdasskd/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/Subhamdasskd/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2645-pass-the-pillow](https://github.com/Subhamdasskd/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1128,6 +1130,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Subhamdasskd/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Subhamdasskd/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
