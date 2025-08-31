@@ -369,6 +369,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
@@ -547,6 +548,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -902,6 +904,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Subhamdasskd/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Subhamdasskd/Leetcode/tree/master/0854-making-a-large-island) |
@@ -1201,6 +1204,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Subhamdasskd/Leetcode/tree/master/1160-letter-tile-possibilities) |
