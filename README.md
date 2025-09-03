@@ -553,6 +553,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
+| [0205-isomorphic-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -775,6 +776,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Subhamdasskd/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Subhamdasskd/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Subhamdasskd/Leetcode/tree/master/0273-integer-to-english-words) |
