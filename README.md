@@ -1107,6 +1107,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Subhamdasskd/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Subhamdasskd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subhamdasskd/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Subhamdasskd/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Subhamdasskd/Leetcode/tree/master/3394-minimum-array-end) |
@@ -1148,6 +1149,7 @@
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Subhamdasskd/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Subhamdasskd/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subhamdasskd/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -1233,6 +1235,7 @@
 | [1656-count-good-triplets](https://github.com/Subhamdasskd/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Subhamdasskd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subhamdasskd/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Subhamdasskd/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
