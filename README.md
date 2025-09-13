@@ -615,6 +615,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subhamdasskd/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -849,6 +850,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subhamdasskd/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -989,6 +991,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subhamdasskd/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
