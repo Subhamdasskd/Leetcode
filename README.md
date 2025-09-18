@@ -282,6 +282,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subhamdasskd/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Union Find
 |  |
 | ------- |
@@ -617,6 +618,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subhamdasskd/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -1090,6 +1092,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Subhamdasskd/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1217,6 +1220,7 @@
 | [0731-my-calendar-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/Subhamdasskd/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
