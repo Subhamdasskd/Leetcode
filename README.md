@@ -808,6 +808,7 @@
 | [0567-permutation-in-string](https://github.com/Subhamdasskd/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Subhamdasskd/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Subhamdasskd/Leetcode/tree/master/0664-strange-printer) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/Subhamdasskd/Leetcode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Subhamdasskd/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Subhamdasskd/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1031,6 +1032,7 @@
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Subhamdasskd/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/Subhamdasskd/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Subhamdasskd/Leetcode/tree/master/1063-best-sightseeing-pair) |
