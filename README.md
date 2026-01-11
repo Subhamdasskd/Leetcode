@@ -379,6 +379,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
@@ -875,6 +876,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Subhamdasskd/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -949,6 +951,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Subhamdasskd/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Subhamdasskd/Leetcode/tree/master/0854-making-a-large-island) |
@@ -1023,6 +1026,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -1250,6 +1254,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subhamdasskd/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Subhamdasskd/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subhamdasskd/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
