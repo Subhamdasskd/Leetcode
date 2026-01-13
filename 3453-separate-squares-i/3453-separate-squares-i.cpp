@@ -1,39 +1,36 @@
-
 class Solution {
-public:
-    double separateSquares(vector<vector<int>>& squares) {
-        double totalArea = 0;
-        double low = 2e9;
-        double high = 0;
+ public:
+  double separateSquares(vector<vector<int>>& squares) {
+    const double halfArea = accumulate(squares.begin(), squares.end(), 0.0,
+                                       [](double sum, vector<int>& square) {
+      return sum + static_cast<long>(square[2]) * square[2];
+    }) / 2;
+    vector<tuple<int, bool, int>> events;
 
-        for (auto& s : squares) {
-            double y = s[1];
-            double l = s[2];
-            totalArea += l * l;
-            low = min(low, y);
-            high = max(high, y + l);
-        }
-
-        double targetArea = totalArea / 2.0;
-
-        for (int i = 0; i < 100; ++i) {
-            double mid = low + (high - low) / 2.0;
-            double currentArea = 0;
-
-            for (auto& s : squares) {
-                double y = s[1];
-                double l = s[2];
-                double h_below = max(0.0, min(l, mid - y));
-                currentArea += h_below * l;
-            }
-
-            if (currentArea < targetArea) {
-                low = mid;
-            } else {
-                high = mid;
-            }
-        }
-
-        return high;
+    for (const vector<int>& square : squares) {
+      const int y = square[1];
+      const int l = square[2];
+      events.push_back({y, true, l});       // start of square
+      events.push_back({y + l, false, l});  // end of square
     }
+
+    ranges::sort(events);
+
+    double area = 0;
+    int width = 0;
+    int prevY = 0;
+
+    for (const auto& [y, isStart, l] : events) {
+      double areaGain = width * static_cast<long>(y - prevY);
+      if (area + areaGain >= halfArea)
+        return prevY + (halfArea - area) / width;
+      area += areaGain;
+      width += isStart ? l : -l;
+      prevY = y;
+    }
+
+    throw;
+  }
 };
+
+
