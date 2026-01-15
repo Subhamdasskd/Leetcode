@@ -249,6 +249,7 @@
 | [2846-robot-collisions](https://github.com/Subhamdasskd/Leetcode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -533,6 +534,7 @@
 | [2846-robot-collisions](https://github.com/Subhamdasskd/Leetcode/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subhamdasskd/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
