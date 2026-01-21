@@ -836,6 +836,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Subhamdasskd/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Subhamdasskd/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Subhamdasskd/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/Subhamdasskd/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Subhamdasskd/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Subhamdasskd/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -904,6 +905,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Subhamdasskd/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Subhamdasskd/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Subhamdasskd/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Subhamdasskd/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
