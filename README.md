@@ -284,6 +284,7 @@
 | [2868-continuous-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subhamdasskd/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Union Find
@@ -567,6 +568,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -644,6 +646,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Subhamdasskd/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subhamdasskd/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -714,6 +717,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Subhamdasskd/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Subhamdasskd/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -741,6 +745,7 @@
 | [2846-robot-collisions](https://github.com/Subhamdasskd/Leetcode/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Subhamdasskd/Leetcode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -1280,11 +1285,13 @@
 | [0731-my-calendar-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/Subhamdasskd/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Subhamdasskd/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
