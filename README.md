@@ -580,6 +580,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subhamdasskd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1022,6 +1023,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Subhamdasskd/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
@@ -1106,6 +1108,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
