@@ -587,6 +587,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-trionic-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subhamdasskd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
