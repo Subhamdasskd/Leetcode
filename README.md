@@ -395,6 +395,7 @@
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Subhamdasskd/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhamdasskd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -671,6 +672,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Subhamdasskd/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Subhamdasskd/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Subhamdasskd/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
