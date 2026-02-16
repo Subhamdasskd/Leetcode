@@ -1051,6 +1051,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Subhamdasskd/Leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Subhamdasskd/Leetcode/tree/master/0948-sort-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1210,6 +1211,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Subhamdasskd/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Subhamdasskd/Leetcode/tree/master/0342-power-of-four) |
