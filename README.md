@@ -797,6 +797,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Subhamdasskd/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Subhamdasskd/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Subhamdasskd/Leetcode/tree/master/0670-maximum-swap) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subhamdasskd/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Subhamdasskd/Leetcode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Subhamdasskd/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -1222,6 +1223,7 @@
 | [0268-missing-number](https://github.com/Subhamdasskd/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Subhamdasskd/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Subhamdasskd/Leetcode/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subhamdasskd/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subhamdasskd/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Subhamdasskd/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
