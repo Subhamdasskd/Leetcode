@@ -161,6 +161,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Subhamdasskd/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Subhamdasskd/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Subhamdasskd/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Subhamdasskd/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -896,6 +897,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Subhamdasskd/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Subhamdasskd/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Subhamdasskd/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
