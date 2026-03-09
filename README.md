@@ -1163,6 +1163,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Subhamdasskd/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1297,6 +1298,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Subhamdasskd/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Subhamdasskd/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
