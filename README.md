@@ -581,6 +581,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Subhamdasskd/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Subhamdasskd/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subhamdasskd/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Subhamdasskd/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhamdasskd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Subhamdasskd/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1091,6 +1092,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Subhamdasskd/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Subhamdasskd/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Subhamdasskd/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1324,6 +1326,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Subhamdasskd/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Subhamdasskd/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
