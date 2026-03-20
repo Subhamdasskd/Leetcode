@@ -268,6 +268,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Subhamdasskd/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subhamdasskd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Subhamdasskd/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -610,6 +611,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Subhamdasskd/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -1094,6 +1096,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Subhamdasskd/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Subhamdasskd/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Subhamdasskd/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Subhamdasskd/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
