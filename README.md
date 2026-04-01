@@ -939,6 +939,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Subhamdasskd/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Subhamdasskd/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Subhamdasskd/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Subhamdasskd/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Subhamdasskd/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
