@@ -407,6 +407,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhamdasskd/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Subhamdasskd/Leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/Subhamdasskd/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Subhamdasskd/Leetcode/tree/master/0118-pascals-triangle) |
@@ -831,6 +832,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Subhamdasskd/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Subhamdasskd/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Subhamdasskd/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subhamdasskd/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/0264-ugly-number-ii) |
