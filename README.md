@@ -434,6 +434,7 @@
 | [0854-making-a-large-island](https://github.com/Subhamdasskd/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Subhamdasskd/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Subhamdasskd/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Subhamdasskd/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -653,6 +654,7 @@
 | [0726-number-of-atoms](https://github.com/Subhamdasskd/Leetcode/tree/master/0726-number-of-atoms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Subhamdasskd/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/Subhamdasskd/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Subhamdasskd/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Subhamdasskd/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -801,6 +803,7 @@
 | [0498-diagonal-traverse](https://github.com/Subhamdasskd/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Subhamdasskd/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Subhamdasskd/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/Subhamdasskd/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Subhamdasskd/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Subhamdasskd/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
