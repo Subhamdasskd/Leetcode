@@ -813,6 +813,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Subhamdasskd/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Subhamdasskd/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Subhamdasskd/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Subhamdasskd/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Subhamdasskd/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Subhamdasskd/Leetcode/tree/master/2155-find-missing-observations) |
@@ -1295,6 +1296,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Subhamdasskd/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/Subhamdasskd/Leetcode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Subhamdasskd/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2434-design-a-number-container-system](https://github.com/Subhamdasskd/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Subhamdasskd/Leetcode/tree/master/3678-design-task-manager) |
 ## Binary Search Tree
