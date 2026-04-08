@@ -629,6 +629,7 @@
 | [3640-trionic-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subhamdasskd/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Subhamdasskd/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Subhamdasskd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subhamdasskd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Subhamdasskd/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -833,6 +834,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -1143,6 +1145,7 @@
 | [0761-special-binary-string](https://github.com/Subhamdasskd/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Subhamdasskd/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Subhamdasskd/Leetcode/tree/master/0948-sort-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
