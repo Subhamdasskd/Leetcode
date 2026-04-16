@@ -615,6 +615,7 @@
 | [3454-separate-squares-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3488-closest-equal-element-queries](https://github.com/Subhamdasskd/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -716,6 +717,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Subhamdasskd/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Subhamdasskd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/Subhamdasskd/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Subhamdasskd/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -788,6 +790,7 @@
 | [3427-special-array-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/Subhamdasskd/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Subhamdasskd/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Subhamdasskd/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Subhamdasskd/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Subhamdasskd/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
